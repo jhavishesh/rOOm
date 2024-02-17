@@ -21,7 +21,7 @@ This web app is an online portal that enables users to communicate via Video and
 ![Screenshot (365)](https://github.com/jhavishesh/rOOm/assets/61939693/1879494b-a417-418f-aa0f-17a0614f150c)
 
 
-* Team's Meeting
+* rOOm's Meeting
 
 ![125504468-2c50d3b7-a0c2-4529-8571-2eb17f5dedc6](https://github.com/jhavishesh/rOOm/assets/61939693/ba197a95-8d79-45c6-9472-f2bd82cde1c2)
 
@@ -38,9 +38,9 @@ A list of technologies used within the project:
 * React
 * Chatengine.io
 
-## Features
+## rOOm's Features
 ***
-rOOm features:
+
 * Video/ Audio Calling (Enable more than 2 users to communicate with each other)
 * Real Time Chat system (Before, During, and After the Team's Meeting)
 * Disable/Enable Video
